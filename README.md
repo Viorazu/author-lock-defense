@@ -31,4 +31,5 @@ CC BY 4.0 - Free to use with attribution
 ## Contact
 
 - X (Twitter): @Viorazu_
-- arXiv: (pending upload)
+
+
