@@ -1,6 +1,6 @@
-# Author-Lock and Cryptographic Defense for Personal Topics
+# Author-Lock Defense (ABAC)
 
-Paper by Viorazu.
+This repository contains the paper "When Impersonation Breaks AI: Author-Lock and Cryptographic Defense for Personal Topics" by Viorazu.
 
 ## Abstract
 
@@ -12,5 +12,23 @@ The cause is clear: AI systems can't verify who the real author is. They use sha
 
 Keywords: impersonation attacks, AI safety, collaborative research, authentication, intellectual property protection, access control, large language models, author-lock
 
+## Files
+
+- `paper.pdf` - Full paper (English)
+- `paper-summary-ja.md` - Japanese summary (Abstract + Introduction + Conclusion)
+
+## Key Contributions
+
+1. Identification and definition of the author-lock phenomenon
+2. Technical analysis of distributed safety state architecture
+3. Concrete ABAC protocol with implementation details
+4. Evaluation framework and policy recommendations
+
 ## License
-CC BY 4.0
+
+CC BY 4.0 - Free to use with attribution
+
+## Contact
+
+- X (Twitter): @Viorazu_
+- arXiv: (pending upload)
